@@ -1,5 +1,5 @@
 <?php
 echo "My HostName: " . gethostname(); 
 echo "\n"
-echo "This is Rocky Applications" 
+echo "This is Voyager Applications" 
 ?>
